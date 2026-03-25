@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local outputs and experiment artifacts
+outputs/
+
+# Cluster job logs
+slurm_out/
+slurm_err/
+
+# Editors and OS files
+.DS_Store
+.idea/
+.vscode/
